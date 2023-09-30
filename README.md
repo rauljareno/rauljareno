@@ -3,15 +3,12 @@
 <h3 align="center">I'm a Senior Software Developer. I'm currently focused on cross-platform mobile development with Flutter and web development with Vue, Nuxt, JavaScript. I have also broad experience building native apps with Swift, Kotlin, Java and Objective-C.</h3>
 
 <p align="center">
-   <a href="https://www.youtube.com/channel/UCq4-3zrI2AOypzJOfnd1tew" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="rauljareno" height="28px" width="28px" />
-  </a>
   <a href="https://www.linkedin.com/in/rauljareno" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rauljareno" height="30" width="30" />
   </a>
 </p>
 
-- 👨‍💻 All of my open source projects are available at [my website](https://appio.site) or on my [github](https://github.com/rauljareno)
+- 👨‍💻 All of my open source projects are available at [my website](https://www.appio.site) or on my [github](https://github.com/rauljareno)
 
 - 💬 Ask me about **Flutter, Kotlin, Swift, Vue, Nuxt, Firebase and anything about mobile and web development**
 
